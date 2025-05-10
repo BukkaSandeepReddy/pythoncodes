@@ -1,0 +1,5 @@
+# Simple addition in Python
+a = 5
+b = 3
+sum = a + b
+print("The sum is:", sum)
