@@ -10,7 +10,8 @@ print("Ascending order:", numbers)
 
 #First Method
 numbers = [5, 2, 9, 1, 7]
+int c = a+b
 sorted_numbers = sorted(numbers)
-print("Ascending:", sorted_numbers)
+print("Ascending:",sorted_numbers,c)
 
 
